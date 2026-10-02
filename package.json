@@ -1,0 +1,5 @@
+{
+  "name": "sistema-da-oficina",
+  "private": true,
+  "engines": { "node": ">=18" }
+}
