@@ -87,3 +87,4 @@ Pronto. Todos os aparelhos que entrarem com a senha veem os mesmos dados, atuali
 - **Ver os dados:** no Supabase, em **Table Editor → docs**, dá para ver tudo o que o sistema salvou. Não apague linhas por lá, use o próprio sistema.
 - **A chave secreta do Supabase** dá acesso total ao banco. Ela só pode ficar na Vercel.
 - **Nunca** coloque as chaves dentro do `index.html` nem mande por WhatsApp.
+- 
